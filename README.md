@@ -1,7 +1,7 @@
 ## Hi there, my name is Akshay Vakil  
 I am currently a third-year Computer Science student interested in fullstack development.  
 
-[🌐 Portfolio](https://akshayport.netlify.app/)  
+[🌐 Portfolio](https://akshayport.netlify.app/)  ⭐ [All my cool projects are here!]  
 [🔗 LinkedIn](https://www.linkedin.com/in/akshay-vakil/)  
 
 ---
@@ -38,3 +38,18 @@ I am currently a third-year Computer Science student interested in fullstack dev
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
 
 ---  
+
+---
+
+### 🚀 Personal Projects  
+
+Check out some of my favourite projects that I've worked on with other developers:
+
+- [**RateMyCourses**](https://github.com/EliyaFarhat/RateMyClasses)  
+  A platform to review and rate courses, developed with a team, featuring a robust back-end with MongoDB for the Database, Express and NodeJS for the backend, + React and Vite for the front-end.
+
+- [**Space Simulator X**](https://www.roblox.com/games/15775582193/UPD-4-Space-Simulator-X)  
+  A simulator game built on Roblox, where players can explore different planets, roll for rare explosions & pets, with amazing graphics and UIs.
+
+
+
