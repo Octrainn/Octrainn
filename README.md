@@ -10,7 +10,7 @@ I am currently a third-year Computer Science student interested in fullstack dev
 
 **Toronto Metropolitan University** *(Formerly known as Ryerson University)*  
 **Bachelor of Science in Computer Science**  
-*Graduation: September 2022 - April 2026*  
+*Expected Graduation: September 2022 - April 2026*  
 
 ---
 
