@@ -1,5 +1,5 @@
 ## Hi there, my name is Akshay Vakil  
-I am currently a third-year Computer Science student interested in fullstack development.  
+I am currently a third-year Computer Science student interested in fullstack development & game development
 
 [🌐 Portfolio](https://akshayvakil.vercel.app/)  ⭐ [All my cool projects are here!]  
 [🔗 LinkedIn](https://www.linkedin.com/in/akshay-vakil/)  
